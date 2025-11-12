@@ -1,9 +1,9 @@
 DeepSeek
 
+开源
+
 大疆
 DJI
-
-宇树
 
 字节
 bytedance
@@ -26,10 +26,22 @@ gemini
 deepmind
 
 Meta
+扎克伯格
+亚历山大王
+亚历山大·王
+
+Yann LeCun
+杨立昆
+Geoffrey Hinton
+杰弗里·辛顿
 
 chatgpt
 openai
 sora
+Sam Altman
+Altman
+山姆·奥特曼
+山姆奥特曼
 
 claude
 Anthropic
@@ -45,10 +57,10 @@ ai
 
 机器人
 
-国产
-中国
-
 美国
+特朗普
+trump
+
 日本
 韩国
 
